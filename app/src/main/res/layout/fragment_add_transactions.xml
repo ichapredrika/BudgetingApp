@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorPalette1"
+    tools:context=".AddTransactionsFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        app:titleTextColor="@color/colorWhite"
+        app:title="@string/add_transactions"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimaryDark"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <TextView
+        android:id="@+id/txt_add_trans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textColor="@color/colorTextBrown"
+        android:background="@color/colorWhite"
+        android:text="@string/add_transaction"/>
+
+    <TextView
+        android:id="@+id/txt_set_max_spent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:padding="16dp"
+        android:textColor="@color/colorTextBrown"
+        android:background="@color/colorWhite"
+        android:text="@string/set_max_spent"/>
+
+    <TextView
+        android:id="@+id/txt_add_monthly_expense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:padding="16dp"
+        android:textColor="@color/colorTextBrown"
+        android:background="@color/colorWhite"
+        android:text="@string/add_monthly_expnese"/>
+
+    <TextView
+        android:id="@+id/txt_monthly_expense_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:padding="16dp"
+        android:textColor="@color/colorTextBrown"
+        android:background="@color/colorWhite"
+        android:text="@string/monthly_expense_list"/>
+</LinearLayout>

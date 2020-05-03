@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BudgetingApp</string>
+    <string name="trans">Trans</string>
+    <string name="add">Add</string>
+    <string name="stats">Stats</string>
+
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="format_amount">Rp %1$s</string>
+    <string name="balance">Balance</string>
+    <string name="all_transaction">All Transaction</string>
+    <string name="msg_failed_get_data">Failed getting data</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="add_transactions">Add Transactions</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="set_max_spent">Set Max Spent</string>
+    <string name="add_monthly_expnese">Add Monthly Expense</string>
+    <string name="maximum_monthly_spent">Maximum Monthly Spent</string>
+    <string name="please_set_maximum_spent_per_month_in_the_field_below">Please set maximum spent per month in the field below!</string>
+    <string name="amount_rp">Amount (Rp)</string>
+    <string name="percentage_of_saving">Percentage of Saving</string>
+    <string name="saving">Saving</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="monthly_expense_list">Monthly Budget List</string>
+</resources>

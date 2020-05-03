@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffa41b</color>
+    <color name="colorPrimaryDark">#ffa41b</color>
+    <color name="colorAccent">#116979</color>
+    <color name="colorPalette1">#dee3e2</color>
+    <color name="colorPalette2">#E4034243</color>
+    <color name="colorPalette3">#878787</color>
+    <color name="colorPalette4">#2c786c</color>
+    <color name="colorPalette5">#ffa41b</color>
+
+ <!--   <color name="colorPrimary">#0ED1D3D3</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#116979</color>
+    <color name="colorPalette1">#dee3e2</color>
+    <color name="colorPalette2">#E4034243</color>
+    <color name="colorPalette3">#878787</color>
+    <color name="colorPalette4">#2c786c</color>
+    <color name="colorPalette5">#ffa41b</color>-->
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBgGray">#878787</color>
+    <color name="colorNegative">#B22222</color>
+    <color name="colorNegativePressed">#8C1B1B</color>
+    <color name="colorGray4"> #EBEEF1 </color>
+    <color name="colorGray3">#e0e0e0</color>
+    <color name="colorGray2"> #B9C3C1 </color>
+    <color name="colorGray1">#97000000</color>
+    <color name="colorTextBrown">#303035</color>
+    <color name="colorTextGray">#95919B</color>
+    <color name="colorTextSoft">#ABA6B2</color>
+</resources>
